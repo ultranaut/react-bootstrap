@@ -1,1 +1,3 @@
-* React bootstrap
+# React bootstrap
+
+Quick project scaffold
