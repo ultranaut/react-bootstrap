@@ -4,7 +4,7 @@ module.exports = {
     'plugin:import/errors',
     'plugin:react/recommended',
     'plugin:jsx-a11y/recommended',
-    'plugint:react-hooks/recommended',
+    'plugin:react-hooks/recommended',
     'prettier',
   ],
   rules: {
